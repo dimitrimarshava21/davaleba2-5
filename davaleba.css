@@ -1,0 +1,157 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#conteiner {
+    text-align: center;
+    background-image: url(./image.png);
+    width: 1400px;
+    height: 674px;
+    margin: 0 auto;
+}
+
+#contact-conteiner {
+    margin-top: 156px;
+}
+
+#contact-lorem {
+    font-family: PoetsenOne;
+    font-size: 44px;
+    width: 1258px;
+    display: inline-block;
+    text-align: start;
+    margin-top: 39px;
+    color: #FFF;
+}
+
+#conteiner-conteiner {
+    width: 1137px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 115px;
+    padding: 40px 32px;
+    border-radius: 24px;
+    background: #EBF8FE;
+}
+
+#contact-first {
+
+    color: #181D27;
+    font-family: "Inria Sans";
+    font-size: 64px;
+}
+
+#conteiner-building {
+    color: #535862;
+    font-family: "Instrument Sans";
+    font-size: 32px;
+    text-align: start;
+    display: block;
+}
+
+#button-enter {
+    margin-top: 24px;
+}
+
+#button {
+    margin: 0 auto;
+    padding: 12px 14px;
+    color: #717680;
+    font-family: Inter;
+    font-size: 16px;
+    width: 345px;
+    border-radius: 8px;
+    border: 1px solid #D5D7DA;
+    background: #FFF;
+}
+
+#Subscribe {
+    display: inline-block;
+    padding: 12px 18px;
+    border-radius: 8px;
+    border: 2px solid #FFF;
+    background: #007CB8;
+    color: #FFF;
+    margin-left: 24px;
+    margin-right: 24px;
+}
+
+#about-contact {
+    display: block;
+    width: 490px;
+    color: #535862;
+    font-family: Inter;
+    font-size: 14px;
+    text-align: start;
+    margin: 0 auto;
+    margin-top: 8px;
+}
+
+#contact-contact {
+    width: 546px;
+    padding: 40px 32px;
+    border-radius: 24px;
+    background: #EBF8FE;
+    margin: 0 auto;
+    margin-top: 72px;
+}
+
+#Submit {
+    color: #181D27;
+    font-family: "Inria Sans";
+    font-size: 40px;
+    text-align: start;
+}
+
+#full-mame {
+    margin-top: 24px;
+    display: block;
+    color: #1B003D;
+    font-family: "Noto Sans Georgian";
+    font-size: 14px;
+}
+
+#contact-name {
+    margin-top: 8px;
+}
+
+#contact-write-name {
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #380054;
+    width: 482px;
+    background-color: #FFF;
+    text-align: start;
+    margin-top: 8px;
+}
+
+#contact-friends {
+    color: #1B003D;
+    font-family: "Noto Sans Georgian";
+    font-size: 14px;
+}
+
+#contact-radio {
+    margin-top: 24px;
+}
+
+
+#radio {
+    margin-top: 8px;
+}
+
+
+#contact-checkbox {
+    margin-top: 24px;
+}
+
+#checkbox {
+    margin-top: 8px;
+}
+
+#label {
+    margin-left: 8px;
+    margin-right: 8px;
+}
